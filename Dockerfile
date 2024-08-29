@@ -10,3 +10,4 @@ WORKDIR $APP_HOME
 
 CMD ["java", "-jar", "app.jar"]
 Git commit test.
+push changes.,
